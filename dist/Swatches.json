@@ -1,0 +1,1054 @@
+{
+  "name" : "Guyn",
+  "swatches" : [
+    
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 26.08,
+      "components" : [
+        207.27,
+        8.27,
+        26.08
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 8.27,
+      "hue" : 207.27
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 38.43,
+      "components" : [
+        205.00,
+        6.12,
+        38.43
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 6.12,
+      "hue" : 205.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 57.25,
+      "components" : [
+        205.00,
+        5.50,
+        57.25
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 5.50,
+      "hue" : 205.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 69.61,
+      "components" : [
+        206.09,
+        14.84,
+        69.61
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 14.84,
+      "hue" : 206.09
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 78.04,
+      "components" : [
+        206.67,
+        16.07,
+        78.04
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 16.07,
+      "hue" : 206.67
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 89.41,
+      "components" : [
+        205.71,
+        25.93,
+        89.41
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 25.93,
+      "hue" : 205.71
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 5.69,
+      "components" : [
+        302.22,
+        93.10,
+        5.69
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 93.10,
+      "hue" : 302.22
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 13.92,
+      "components" : [
+        302.86,
+        29.58,
+        13.92
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 29.58,
+      "hue" : 302.86
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 35.29,
+      "components" : [
+        300.00,
+        13.33,
+        35.29
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 13.33,
+      "hue" : 300.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 13.92,
+      "components" : [
+        289.85,
+        91.55,
+        13.92
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 91.55,
+      "hue" : 289.85
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 20.98,
+      "components" : [
+        290.32,
+        86.92,
+        20.98
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 86.92,
+      "hue" : 290.32
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 24.31,
+      "components" : [
+        290.38,
+        85.48,
+        24.31
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 85.48,
+      "hue" : 290.38
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 38.04,
+      "components" : [
+        290.00,
+        83.51,
+        38.04
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 83.51,
+      "hue" : 290.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 47.45,
+      "components" : [
+        289.88,
+        71.07,
+        47.45
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 71.07,
+      "hue" : 289.88
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 52.16,
+      "components" : [
+        290.00,
+        73.77,
+        52.16
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 73.77,
+      "hue" : 290.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 42.16,
+      "components" : [
+        325.45,
+        88.84,
+        42.16
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 88.84,
+      "hue" : 325.45
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 53.14,
+      "components" : [
+        325.52,
+        75.73,
+        53.14
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 75.73,
+      "hue" : 325.52
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 66.08,
+      "components" : [
+        325.47,
+        80.35,
+        66.08
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 80.35,
+      "hue" : 325.47
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 57.65,
+      "components" : [
+        338.87,
+        65.74,
+        57.65
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 65.74,
+      "hue" : 338.87
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 67.65,
+      "components" : [
+        338.68,
+        73.33,
+        67.65
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 73.33,
+      "hue" : 338.68
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 79.02,
+      "components" : [
+        338.86,
+        98.13,
+        79.02
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 98.13,
+      "hue" : 338.86
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 42.55,
+      "components" : [
+        345.09,
+        76.04,
+        42.55
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 76.04,
+      "hue" : 345.09
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 51.76,
+      "components" : [
+        344.86,
+        86.99,
+        51.76
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 86.99,
+      "hue" : 344.86
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 70.20,
+      "components" : [
+        344.80,
+        98.68,
+        70.20
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 98.68,
+      "hue" : 344.80
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 59.02,
+      "components" : [
+        32.15,
+        100.00,
+        59.02
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 32.15
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 62.75,
+      "components" : [
+        34.42,
+        100.00,
+        62.75
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 34.42
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 69.02,
+      "components" : [
+        41.01,
+        100.00,
+        69.02
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 41.01
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 57.06,
+      "components" : [
+        44.38,
+        100.00,
+        57.06
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 44.38
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 69.61,
+      "components" : [
+        44.52,
+        100.00,
+        69.61
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 44.52
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 83.92,
+      "components" : [
+        46.83,
+        100.00,
+        83.92
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 46.83
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 52.35,
+      "components" : [
+        87.74,
+        81.89,
+        52.35
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 81.89,
+      "hue" : 87.74
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 56.67,
+      "components" : [
+        87.74,
+        90.05,
+        56.67
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 90.05,
+      "hue" : 87.74
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 67.06,
+      "components" : [
+        87.86,
+        100.00,
+        67.06
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 87.86
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 46.27,
+      "components" : [
+        95.37,
+        56.78,
+        46.27
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 56.78,
+      "hue" : 95.37
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 45.69,
+      "components" : [
+        87.78,
+        87.12,
+        45.69
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 87.12,
+      "hue" : 87.78
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 59.22,
+      "components" : [
+        95.20,
+        72.12,
+        59.22
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 72.12,
+      "hue" : 95.20
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 42.55,
+      "components" : [
+        96.23,
+        24.42,
+        42.55
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 24.42,
+      "hue" : 96.23
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 55.88,
+      "components" : [
+        96.23,
+        23.56,
+        55.88
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 23.56,
+      "hue" : 96.23
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 73.73,
+      "components" : [
+        95.22,
+        34.33,
+        73.73
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 34.33,
+      "hue" : 95.22
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 51.57,
+      "components" : [
+        133.66,
+        49.80,
+        51.57
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 49.80,
+      "hue" : 133.66
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 67.45,
+      "components" : [
+        135.81,
+        89.16,
+        67.45
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 89.16,
+      "hue" : 135.81
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 78.82,
+      "components" : [
+        139.44,
+        100.00,
+        78.82
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 139.44
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 45.88,
+      "components" : [
+        172.14,
+        71.79,
+        45.88
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 71.79,
+      "hue" : 172.14
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 50.98,
+      "components" : [
+        172.08,
+        84.80,
+        50.98
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 84.80,
+      "hue" : 172.08
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 65.69,
+      "components" : [
+        172.19,
+        96.57,
+        65.69
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 96.57,
+      "hue" : 172.19
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 75.49,
+      "components" : [
+        195.36,
+        100.00,
+        75.49
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 195.36
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 83.33,
+      "components" : [
+        195.53,
+        100.00,
+        83.33
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 195.53
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 90.39,
+      "components" : [
+        195.92,
+        100.00,
+        90.39
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 195.92
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 51.57,
+      "components" : [
+        198.73,
+        76.52,
+        51.57
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 76.52,
+      "hue" : 198.73
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 61.76,
+      "components" : [
+        198.82,
+        86.67,
+        61.76
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 86.67,
+      "hue" : 198.82
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 68.82,
+      "components" : [
+        198.52,
+        93.71,
+        68.82
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 93.71,
+      "hue" : 198.52
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 32.35,
+      "components" : [
+        212.34,
+        85.45,
+        32.35
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 85.45,
+      "hue" : 212.34
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 46.27,
+      "components" : [
+        212.08,
+        61.02,
+        46.27
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 61.02,
+      "hue" : 212.08
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 56.67,
+      "components" : [
+        212.13,
+        57.47,
+        56.67
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 57.47,
+      "hue" : 212.13
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 8.24,
+      "components" : [
+        211.88,
+        76.19,
+        8.24
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 76.19,
+      "hue" : 211.88
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 13.14,
+      "components" : [
+        211.84,
+        73.13,
+        13.14
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 73.13,
+      "hue" : 211.84
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 16.67,
+      "components" : [
+        211.43,
+        74.12,
+        16.67
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 74.12,
+      "hue" : 211.43
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 38.43,
+      "components" : [
+        27.97,
+        60.20,
+        38.43
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 60.20,
+      "hue" : 27.97
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 49.80,
+      "components" : [
+        27.93,
+        45.67,
+        49.80
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 45.67,
+      "hue" : 27.93
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 63.33,
+      "components" : [
+        27.95,
+        39.04,
+        63.33
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 39.04,
+      "hue" : 27.95
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 82.75,
+      "components" : [
+        42.22,
+        61.36,
+        82.75
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 61.36,
+      "hue" : 42.22
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 89.61,
+      "components" : [
+        41.54,
+        73.58,
+        89.61
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 73.58,
+      "hue" : 41.54
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 96.08,
+      "components" : [
+        42.00,
+        100.00,
+        96.08
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 100.00,
+      "hue" : 42.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 100.00,
+      "components" : [
+        0.00,
+        0.00,
+        100.00
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 0.00,
+      "hue" : 0.00
+    },
+    {
+      "alpha" : 1,
+      "origin" : 1,
+      "colorSpace" : 0,
+      "colorModel" : 0,
+      "brightness" : 6.67,
+      "components" : [
+        0.00,
+        0.00,
+        6.67
+      ],
+      "version" : "5.0",
+      "colorProfile" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "saturation" : 0.00,
+      "hue" : 0.00
+    }    
+  ],
+  "colorProfiles" : [
+    {
+      "colorSpace" : 0,
+      "hash" : "KzqhZFd5qeY0dE+vmwHpECsMm4j9bezteTTfhrlJr34=",
+      "iccData" : "AAAMSExpbm8CEAAAbW50clJHQiBYWVogB84AAgAJAAYAMQAAYWNzcE1TRlQAAAAASUVDIHNSR0IA\r\nAAAAAAAAAAAAAAAAAPbWAAEAAAAA0y1IUCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\r\nAAAAAAAAAAAAAAAAAAAAAAARY3BydAAAAVAAAAAzZGVzYwAAAYQAAABsd3RwdAAAAfAAAAAUYmtw\r\ndAAAAgQAAAAUclhZWgAAAhgAAAAUZ1hZWgAAAiwAAAAUYlhZWgAAAkAAAAAUZG1uZAAAAlQAAABw\r\nZG1kZAAAAsQAAACIdnVlZAAAA0wAAACGdmlldwAAA9QAAAAkbHVtaQAAA\/gAAAAUbWVhcwAABAwA\r\nAAAkdGVjaAAABDAAAAAMclRSQwAABDwAAAgMZ1RSQwAABDwAAAgMYlRSQwAABDwAAAgMdGV4dAAA\r\nAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3bGV0dC1QYWNrYXJkIENvbXBhbnkAAGRlc2MAAAAAAAAA\r\nEnNSR0IgSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAA\r\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAADzUQABAAAA\r\nARbMWFlaIAAAAAAAAAAAAAAAAAAAAABYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAA\r\nt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9kZXNjAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMu\r\nY2gAAAAAAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\r\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0\r\nIFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0\r\nIFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAA\r\nLFJlZmVyZW5jZSBWaWV3aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAACxS\r\nZWZlcmVuY2UgVmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAA\r\nAAAAAAAAAAAAAAB2aWV3AAAAAAATpP4AFF8uABDPFAAD7cwABBMLAANcngAAAAFYWVogAAAAAABM\r\nCVYAUAAAAFcf521lYXMAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAKPAAAAAnNpZyAAAAAAQ1JU\r\nIGN1cnYAAAAAAAAEAAAAAAUACgAPABQAGQAeACMAKAAtADIANwA7AEAARQBKAE8AVABZAF4AYwBo\r\nAG0AcgB3AHwAgQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADBAMYAywDQANUA2wDgAOUA6wDwAPYA\r\n+wEBAQcBDQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFgAWcBbgF1AXwBgwGLAZIBmgGhAakBsQG5\r\nAcEByQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYCLwI4AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYC\r\nwQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgDQwNPA1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD+QQG\r\nBBMEIAQtBDsESARVBGMEcQR+BIwEmgSoBLYExATTBOEE8AT+BQ0FHAUrBToFSQVYBWcFdwWGBZYF\r\npgW1BcUF1QXlBfYGBgYWBicGNwZIBlkGagZ7BowGnQavBsAG0QbjBvUHBwcZBysHPQdPB2EHdAeG\r\nB5kHrAe\/B9IH5Qf4CAsIHwgyCEYIWghuCIIIlgiqCL4I0gjnCPsJEAklCToJTwlkCXkJjwmkCboJ\r\nzwnlCfsKEQonCj0KVApqCoEKmAquCsUK3ArzCwsLIgs5C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxc\r\nDHUMjgynDMAM2QzzDQ0NJg1ADVoNdA2ODakNww3eDfgOEw4uDkkOZA5\/DpsOtg7SDu4PCQ8lD0EP\r\nXg96D5YPsw\/PD+wQCRAmEEMQYRB+EJsQuRDXEPURExExEU8RbRGMEaoRyRHoEgcSJhJFEmQShBKj\r\nEsMS4xMDEyMTQxNjE4MTpBPFE+UUBhQnFEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkW\r\nbBaPFrIW1hb6Fx0XQRdlF4kXrhfSF\/cYGxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3\r\nGp4axRrsGxQbOxtjG4obshvaHAIcKhxSHHscoxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+Hukf\r\nEx8+H2kflB+\/H+ogFSBBIGwgmCDEIPAhHCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNmI5QjwiPw\r\nJB8kTSR8JKsk2iUJJTglaCWXJccl9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhxKKIo1CkGKTgp\r\naymdKdAqAio1KmgqmyrPKwIrNitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3hLhYuTC6CLrcu7i8k\r\nL1ovkS\/HL\/4wNTBsMKQw2zESMUoxgjG6MfIyKjJjMpsy1DMNM0YzfzO4M\/E0KzRlNJ402DUTNU01\r\nhzXCNf02NzZyNq426TckN2A3nDfXOBQ4UDiMOMg5BTlCOX85vDn5OjY6dDqyOu87LTtrO6o76Dwn\r\nPGU8pDzjPSI9YT2hPeA+ID5gPqA+4D8hP2E\/oj\/iQCNAZECmQOdBKUFqQaxB7kIwQnJCtUL3QzpD\r\nfUPARANER0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fASAVIS0iRSNdJHUljSalJ8Eo3Sn1KxEsM\r\nS1NLmkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9JT5NP3VAnUHFQu1EGUVBRm1HmUjFSfFLHUxNT\r\nX1OqU\/ZUQlSPVNtVKFV1VcJWD1ZcVqlW91dEV5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0VblVvl\r\nXDVchlzWXSddeF3JXhpebF69Xw9fYV+zYAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tkQGSUZOll\r\nPWWSZedmPWaSZuhnPWeTZ+loP2iWaOxpQ2maafFqSGqfavdrT2una\/9sV2yvbQhtYG25bhJua27E\r\nbx5veG\/RcCtwhnDgcTpxlXHwcktypnMBc11zuHQUdHB0zHUodYV14XY+dpt2+HdWd7N4EXhueMx5\r\nKnmJeed6RnqlewR7Y3vCfCF8gXzhfUF9oX4BfmJ+wn8jf4R\/5YBHgKiBCoFrgc2CMIKSgvSDV4O6\r\nhB2EgITjhUeFq4YOhnKG14c7h5+IBIhpiM6JM4mZif6KZIrKizCLlov8jGOMyo0xjZiN\/45mjs6P\r\nNo+ekAaQbpDWkT+RqJIRknqS45NNk7aUIJSKlPSVX5XJljSWn5cKl3WX4JhMmLiZJJmQmfyaaJrV\r\nm0Kbr5wcnImc951kndKeQJ6unx2fi5\/6oGmg2KFHobaiJqKWowajdqPmpFakx6U4pammGqaLpv2n\r\nbqfgqFKoxKk3qamqHKqPqwKrdavprFys0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LCszizrrQl\r\ntJy1E7WKtgG2ebbwt2i34LhZuNG5SrnCuju6tbsuu6e8IbybvRW9j74KvoS+\/796v\/XAcMDswWfB\r\n48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HHv8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42zrbPN8+4\r\n0DnQutE80b7SP9LB00TTxtRJ1MvVTtXR1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF3IrdEN2W3hze\r\not8p36\/gNuC94UThzOJT4tvjY+Pr5HPk\/OWE5g3mlucf56noMui86Ubp0Opb6uXrcOv77IbtEe2c\r\n7ijutO9A78zwWPDl8XLx\/\/KM8xnzp\/Q09ML1UPXe9m32+\/eK+Bn4qPk4+cf6V\/rn+3f8B\/yY\/Sn9\r\nuv5L\/tz\/bf\/\/",
+      "iccName" : "sRGB IEC61966-2.1"
+    }
+  ]
+}
